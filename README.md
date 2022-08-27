@@ -1,4 +1,4 @@
-# amazon_clone_updated
+# GameSub Trade- Sell or Buy active Gaming Accounts/OTT Subscriptions
 
 A new Flutter project.
 
